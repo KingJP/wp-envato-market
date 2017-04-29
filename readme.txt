@@ -1,10 +1,11 @@
 === Envato Market ===
-Contributors: valendesigns
+Contributors: kingjp, valendesigns
 Requires at least: 4.2
 Tested up to: 4.5
 Stable tag: 1.0.0-RC2
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Forked from: [envato/wp-envato-market](https://github.com/envato/wp-envato-market)
 
 WordPress Theme & Plugin management for the Envato Market.
 
@@ -27,4 +28,4 @@ Installing the Envato Market plugin.
 
 == Contributing ==
 
-**Pull requests are welcome.** Please review the [guidelines for contributing](https://github.com/envato/wp-envato-market/blob/master/contributing.md) and [code of conduct](https://github.com/envato/wp-envato-market/blob/master/code_of_conduct.md) before contributing to this repository.
+**Pull requests are welcome.** Please review the [guidelines for contributing](https://github.com/kingjp/wp-envato-market/blob/master/contributing.md) and [code of conduct](https://github.com/kingjp/wp-envato-market/blob/master/code_of_conduct.md) before contributing to this repository.

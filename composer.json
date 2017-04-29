@@ -1,8 +1,18 @@
 {
-	"require": {
-		"php": ">=5.2.7"
-	},
-	"require-dev": {
-		"satooshi/php-coveralls": "dev-master"
-	}
+    "name": "kingjp/wp-envato-market",
+    "description": "WordPress Theme & Plugin management for the Envato Market.",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": "^5.2.7"
+    },
+    "require-dev": {
+        "satooshi/php-coveralls": "^1.0"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "KingJP",
+            "email": "jochen@pylypiw.com"
+        }
+    ]
 }
