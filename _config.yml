@@ -1,0 +1,8 @@
+title: Envato Market
+description: WordPress Theme & Plugin management for the Envato Market.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
